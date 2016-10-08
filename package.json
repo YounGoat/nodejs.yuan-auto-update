@@ -1,9 +1,9 @@
 {
 	"name": "yuan-auto-update",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/YounGoat/ecmascript.yuan.git"
+		"url": "https://github.com/YounGoat/nodejs.yuan-auto-update.git"
 	},
 	"author": {
 		"name": "Triver YounGoat",
