@@ -1,7 +1,9 @@
+##	How To Use?
+
 ```javascript
 var yau = require('yuan-auto-update');
 
-var ret = yau('yuan', {
+var ret = yau('yuan' /* module name */, {
 	// Specify the registry of npm.
 	registry: 'https://registry.npmjs.org/',
 
