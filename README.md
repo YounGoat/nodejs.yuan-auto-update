@@ -1,3 +1,5 @@
+To detect and automatically update (if necessary) the latest version of specified module.
+
 ##	How To Use?
 
 ```javascript
